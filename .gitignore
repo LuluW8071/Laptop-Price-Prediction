@@ -1,1 +1,3 @@
 env/
+model/laptop_data.pkl
+model/pipe_object.pkl
